@@ -21,11 +21,12 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import kafka from "./tech/kafka.png";
+import aws from "./tech/aws.png";
 
 import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import amex from "./company/american-express.png";
+import disney from "./company/disney.png";
 
 import carrent from "./carrent.png";
 import customShirt from "./custom-shirt-project.png"
@@ -57,12 +58,13 @@ export {
   typescript,
   threejs,
   meta,
-  shopify,
-  starbucks,
-  tesla,
+  disney,
+  amex,
   carrent,
   metaverse,
   customShirt,
   jobit,
   tripguide,
+  kafka,
+  aws,
 };
