@@ -53,6 +53,10 @@ const services = [
   {
     title: "Backend Developer",
     icon: backend,
+  },
+  {
+    title: "Android Developer",
+    icon: creator,
   }
 ];
 
