@@ -33,6 +33,7 @@ import customShirt from "./custom-shirt-project.png"
 import metaverse from "./metaverse.png"
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import lms from "./lms-project.png"
 
 export {
   logo,
@@ -65,6 +66,7 @@ export {
   customShirt,
   jobit,
   tripguide,
+  lms,
   kafka,
   aws,
 };

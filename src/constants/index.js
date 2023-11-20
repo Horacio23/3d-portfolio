@@ -17,6 +17,7 @@ import {
   docker,
   meta,
   kafka,
+  lms,
   metaverse,
   tripguide,
   threejs,
@@ -185,7 +186,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like Horacio does.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -193,7 +194,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Horacio optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
@@ -247,9 +248,9 @@ const projects = [
     live_link: "https://explore-metaverse.com"
   },
   {
-    name: "Trip Guide",
+    name: "Learning Management System",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A complete production ready management system for courses where teachers can create and monetize courses and students can purchase and consume them",
     tags: [
       {
         name: "nextjs",
@@ -264,8 +265,9 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: lms,
+    source_code_link: "https://github.com/Horacio23/nextjs-lms",
+    live_link: "https://lms-tutorial-beryl.vercel.app/"
   },
 ];
 
